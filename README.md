@@ -1,3 +1,4 @@
+
 # A_star_search_algorithm
 
 Problem: Finding the best path in a map with distance routes and coordinates using A* search algorithm.
@@ -12,3 +13,4 @@ Example: python final_project.py “city_costs.txt” “city_coordinates.txt”
 
 If relative paths do not work, try entering full path of a file.
 
+![Capture](https://user-images.githubusercontent.com/25857980/120384716-22fcdf00-c2ec-11eb-83db-fcb1a991cf7b.JPG)
