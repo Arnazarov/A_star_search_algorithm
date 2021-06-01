@@ -1,0 +1,21 @@
+Arad,46.16,21.32
+Bucharest,44.43,26.10
+Craiova,44.33,23.82
+Deva,45.88,22.91
+Drobeta,44.63,22.65
+Eforie,44.07,28.63
+Fagaras,45.84,24.97
+Giurgiu,43.90,25.97
+Hirsova,44.68,27.95
+Iasi,47.16,27.59
+Lugoj,45.68,21.90
+Mehadia,44.90,22.37
+Neamt,46.97,26.4
+Oradea,47.07,21.92
+Pitesti,44.86,24.87
+Rimnicu Vilcea,45.10,24.37
+Sibiu,45.69,24.35
+Timisoara,45.76,21.23
+Urziceni,44.72,26.64
+Vaslui,46.64,27.73
+Zerind,46.62,21.52

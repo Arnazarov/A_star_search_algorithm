@@ -1,0 +1,46 @@
+Arad,Zerind,34
+Arad,Sibiu,169
+Arad,Timisoara,39
+Zerind,Oradea,37
+Zerind,Arad,34
+Oradea,Zerind,37
+Oradea,Sibiu,190
+Timisoara,Arad,39
+Timisoara,Lugoj,38
+Lugoj,Timisoara,38
+Lugoj,Mehadia,69
+Mehadia,Lugoj,69
+Mehadia,Drobeta,30
+Drobeta,Mehadia,30
+Drobeta,Craiova,68
+Craiova,Drobeta,68
+Craiova,Rimnicu Vilcea,79
+Craiova,Pitesti,76
+Sibiu,Arad,169
+Sibiu,Oradea,190
+Sibiu,Fagaras,48
+Sibiu,Rimnicu Vilcea,62
+Rimnicu Vilcea,Sibiu,62
+Rimnicu Vilcea,Craiova,79
+Rimnicu Vilcea,Pitesti,38
+Pitesti,Rimnicu Vilcea,38
+Pitesti,Craiova,76
+Pitesti,Bucharest,73
+Fagaras,Sibiu,48
+Fagaras,Bucharest,144
+Bucharest,Fagaras,144
+Bucharest,Pitesti,73
+Bucharest,Giurgiu,39
+Bucharest,Urziceni,36
+Giurgiu,Bucharest,39
+Urziceni,Bucharest,36
+Urziceni,Hirsova,77
+Urziceni,Vaslui,166
+Vaslui,Urziceni,166
+Vaslui,Iasi,41
+Iasi,Vaslui,41
+Iasi,Neamt,82
+Neamt,Iasi,82
+Hirsova,Urziceni,77
+Hirsova,Eforie,62
+Eforie,Hirsova,62
